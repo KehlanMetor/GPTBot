@@ -12,4 +12,6 @@ npm i axios@latest
 Put the RapidAPI key in the config.json file (between the " " quotes)
 
 ## 🤖 Usage
-```!gpt <query>```
+```sh
+!gpt <query>
+```
