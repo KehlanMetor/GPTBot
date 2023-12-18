@@ -15,3 +15,5 @@ Put the RapidAPI key in the config.json file (between the " " quotes)
 ```sh
 !gpt <query>
 ```
+
+nice bot 😎
